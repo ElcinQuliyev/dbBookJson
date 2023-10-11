@@ -1,0 +1,78 @@
+{
+  "productData": [
+    {
+      "id": 1,
+      "img": "http://127.0.0.1:5500/iconimg/BookAtomic.svg",
+      "title": "Atomic One’s",
+      "price": 25.99,
+      "about": "Many Atomic",
+      "description": "Proent Book"
+    },
+    {
+      "id": 2,
+      "img": "http://127.0.0.1:5500/iconimg/BookAtomic.svg",
+      "title": "Atomic One’s",
+      "price": 22.99,
+      "about": "Many Atomic",
+      "description": "Proent Book"
+    },
+    {
+      "id": 3,
+      "img": "http://127.0.0.1:5500/iconimg/BookAtomic.svg",
+      "title": "Atomic One’s",
+      "price": 28.99,
+      "about": "Many Atomic",
+      "description": "Proent Book"
+    }
+  ],
+  "cartPage": [
+    {
+      "id": 1,
+      "img": "http://127.0.0.1:5500/iconimg/Rectangle%20194.png",
+      "title": "October 6, 2021 / Classics",
+      "about": "There are many variations of passages of Lorem Ipsum available",
+      "title2": "The perfect book for all",
+      "listAbout": "It has roots in a piece of classical Latin literature from 45 BC"
+    },
+    {
+      "id": 2,
+      "img": "http://127.0.0.1:5500/iconimg/Rectangle%20197.png",
+      "title": "October 6, 2021 / Classics",
+      "about": "There are many variations of passages of Lorem Ipsum available",
+      "title2": "The perfect book for all",
+      "listAbout": "It has roots in a piece of classical Latin literature from 45 BC"
+    },
+    {
+      "id": 3,
+      "img": "http://127.0.0.1:5500/iconimg/Rectangle%20198.png",
+      "title": "October 6, 2021 / Classics",
+      "about": "There are many variations of passages of Lorem Ipsum available",
+      "title2": "The perfect book for all",
+      "listAbout": "It has roots in a piece of classical Latin literature from 45 BC"
+    },
+    {
+      "id": 4,
+      "img": "http://127.0.0.1:5500/iconimg/Rectangle%20198.png",
+      "title": "October 6, 2021 / Classics",
+      "about": "There are many variations of passages of Lorem Ipsum available",
+      "title2": "The perfect book for all",
+      "listAbout": "It has roots in a piece of classical Latin literature from 45 BC"
+    },
+    {
+      "id": 5,
+      "img": "http://127.0.0.1:5500/iconimg/Rectangle%20197.png",
+      "title": "October 6, 2021 / Classics",
+      "about": "There are many variations of passages of Lorem Ipsum available",
+      "title2": "The perfect book for all",
+      "listAbout": "It has roots in a piece of classical Latin literature from 45 BC"
+    },
+    {
+      "id": 6,
+      "img": "http://127.0.0.1:5500/iconimg/Rectangle%20194.png",
+      "title": "October 6, 2021 / Classics",
+      "about": "There are many variations of passages of Lorem Ipsum available",
+      "title2": "The perfect book for all",
+      "listAbout": "It has roots in a piece of classical Latin literature from 45 BC"
+    }
+  ]
+}
